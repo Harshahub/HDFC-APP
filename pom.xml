@@ -27,6 +27,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<properties>
+  <sonar.host.url>http://34.229.11.148:9000/</sonar.host.url>
+  <sonar.login>0be81aca4c30cad3ea8d79c9d6b02f1291d091f7</sonar.login>
+</properties>
 
   <build>
     <finalName>HDFC-APP</finalName>
