@@ -13,14 +13,14 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <properties>
+<properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-
-  <sonar.host.url>http://34.229.11.148:9000/</sonar.host.url>
-  <sonar.login>0be81aca4c30cad3ea8d79c9d6b02f1291d091f7</sonar.login>
+    <sonar.host.url>http://34.229.11.148:9000/</sonar.host.url>
+    <sonar.login>0be81aca4c30cad3ea8d79c9d6b02f1291d091f7</sonar.login>
 </properties>
+
 
 
   <dependencies>
